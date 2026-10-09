@@ -86,7 +86,7 @@ The goal of HomelyHub is to bring rental accommodation discovery and AI-assisted
 
 **Navya N**
 
-GitHub: [@Niriksha9845(https://github.com/Niriksha9845)
+GitHub: [@Niriksha9845(https://github.com/Niriksha9845)]
 
 ---
 
